@@ -1,0 +1,5 @@
+droidrun
+llama-index-core
+llama-index-llms-google-genai
+python-dotenv
+google-genai
